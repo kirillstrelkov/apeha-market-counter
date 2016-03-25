@@ -1,0 +1,8 @@
+*.class
+
+.idea/workspace.xml
+.idea/libraries
+
+build/market-counter-*-SNAPSHOT.jar
+target/
+dependency-reduced-pom.xml
